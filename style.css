@@ -12,8 +12,8 @@ Main background - #D4A76A*/
 
 #boxes{
     display: grid;
-    gap: 10px;
-    padding: 10px;
+    gap: 25px;
+    padding: 40px;
     grid-template-columns: auto auto auto;
 }
 
@@ -41,6 +41,11 @@ header{
 button{
     background-color: #805215;
     color: white;
+    font-weight: bolder;
+    font-size: x-large ;
+    padding: 10px;
+    margin: 5px;
+    margin-top: 10px;
 }
 
 
